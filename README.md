@@ -1,4 +1,4 @@
-# Lhava Vertex Client
+# Vertex Client
 
 A Vertex client + orderbook visualizer written in Rust.
 
